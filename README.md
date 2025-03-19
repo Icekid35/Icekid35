@@ -19,7 +19,7 @@
 
 ## 🛠️ Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,express,tailwind,scss,puppeteer,appium,vercel,git,github,figma,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,express,tailwind,scss,vite,wordpress,vercel,git,github,figma,tensorflow,css,docker,markdown,netlify,postman," />
 </p>
 
 ---
